@@ -1,2 +1,2 @@
 # Junaid-demo
-this is for Git & Github class
+this is demo for Git & Github class
